@@ -1,0 +1,14 @@
+name = "Blacksmiths"
+filename = "blacksmiths-1.2.0-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/C7X7fJhx/versions/1.19+1.2.0-fabric/blacksmiths-1.2.0-fabric.jar"
+hash-format = "sha1"
+hash = "3178656968b8a3635bda65bb9ea346231c7dfbc6"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "C7X7fJhx"
+version = "qclP5RMW"

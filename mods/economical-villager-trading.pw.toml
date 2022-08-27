@@ -1,0 +1,14 @@
+name = "Economical Villager Trading"
+filename = "economical-villager-trading-1.2.8+MC1.19-1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MpaztjRf/versions/1.2.8+MC1.19-1.19.2/economical-villager-trading-1.2.8%2BMC1.19-1.19.2.jar"
+hash-format = "sha1"
+hash = "9d9339c5359f683fb64796c672eb8ebc482cad1c"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "MpaztjRf"
+version = "xr3oiUKt"

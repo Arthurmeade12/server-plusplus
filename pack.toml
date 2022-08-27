@@ -1,0 +1,16 @@
+name = "Quilt Modpack"
+author = "Arthurmeade12"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "eacbb3453fb585666b6f799d2b81fec1db1c0797658b260c7cf1b3999a9fe9fd"
+
+[versions]
+minecraft = "1.19.2"
+quilt = "0.17.4"
+
+[options]
+acceptable-game-versions = ["1.19", "1.19.1", "1.19.2"]

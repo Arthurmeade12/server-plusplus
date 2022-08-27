@@ -1,0 +1,14 @@
+name = "FoxGlow"
+filename = "FoxGlow-1.4.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3rGhEp20/versions/1.4.0/FoxGlow-1.4.0.jar"
+hash-format = "sha1"
+hash = "646ad1ea7f77872d71c9abb925ce3db8fc554119"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "3rGhEp20"
+version = "8qzpMIzF"

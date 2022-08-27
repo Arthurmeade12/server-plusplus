@@ -1,0 +1,14 @@
+name = "Dispenser Configurator"
+filename = "dispenser-configurator-1.2.8+MC1.19.1-1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8bvpj25p/versions/1.2.8+MC1.19.1-1.19.2/dispenser-configurator-1.2.8%2BMC1.19.1-1.19.2.jar"
+hash-format = "sha1"
+hash = "32e59a9063a0bfdd369c8439969d64ae8cf627c9"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "8bvpj25p"
+version = "n4WQHd7z"

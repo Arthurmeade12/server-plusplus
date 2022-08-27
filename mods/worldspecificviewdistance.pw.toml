@@ -1,0 +1,14 @@
+name = "World Specific View Distance"
+filename = "worldspecificviewdistance-0.2.1+1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QWvxpGYa/versions/0.2.1+1.19/worldspecificviewdistance-0.2.1%2B1.19.jar"
+hash-format = "sha1"
+hash = "89fabb5015ad1496279680f4850faad9ac0e3b54"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "QWvxpGYa"
+version = "Bc0SirR3"

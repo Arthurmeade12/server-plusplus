@@ -1,0 +1,14 @@
+name = "Camp Fires Cook Mobs"
+filename = "camp-fires-cook-mobs-1.2.9+MC1.19-1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cBuR63rJ/versions/1.2.9+MC1.19-1.19.2/camp-fires-cook-mobs-1.2.9%2BMC1.19-1.19.2.jar"
+hash-format = "sha1"
+hash = "37dc17e1a7c3fa85553f1a0000994d7f1128c473"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "cBuR63rJ"
+version = "zOubdwcj"

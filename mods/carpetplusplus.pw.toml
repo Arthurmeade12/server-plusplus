@@ -1,0 +1,14 @@
+name = "CarpetPlusPlus"
+filename = "carpetplusplus-mc1.19-2.0.0-quilt.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/n8c2qbsp/versions/v2.0.0/carpetplusplus-mc1.19-2.0.0-quilt.jar"
+hash-format = "sha1"
+hash = "cad19fec68744dd943d68c35a7ffdb1a785e8d73"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "n8c2qbsp"
+version = "QxJoNWkF"

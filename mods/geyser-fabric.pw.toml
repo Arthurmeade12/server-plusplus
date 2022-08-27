@@ -1,0 +1,11 @@
+name = "Geyser-Fabric"
+filename = "Geyser-Fabric.jar"
+side = "server"
+
+[download]
+url = "https://ci.opencollab.dev/job/GeyserMC/job/Geyser-Fabric/job/master/36/artifact/build/libs/Geyser-Fabric.jar"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "8569708cce4754afc34092ce617d4c41c79ccf0a5de65c36dc411d858ce8b282"

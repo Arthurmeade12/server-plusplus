@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".DS_Store"
+hash = "acb05adb36359a5a9fbc30a2812ba3a653e6cff07a39fb2408fdc173f4459fb6"
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "cba26f438c185ab8cb33f549e78e8a46baf40294c14e63509bcb87035308a1d7"
 metafile = true
@@ -196,8 +200,18 @@ hash = "87f056062378f276e55d07a577ff6c734bb9af9ea2b5591c424f7c381f82a552"
 metafile = true
 
 [[files]]
+file = "mods/floodgate-fabric.pw.toml"
+hash = "c9cf71d08f9ba946ebfcab2321d2dbebe2a85bdb3bcc9104615b884418bf5782"
+metafile = true
+
+[[files]]
 file = "mods/foxglow.pw.toml"
 hash = "949540e26d3768bc08f47141527f81a9db2a11137505f516f12833ec2e589d5f"
+metafile = true
+
+[[files]]
+file = "mods/geyser-fabric.pw.toml"
+hash = "ee939e7d2642500785e11d8a44bfc0b2e4c70cfb5d20251d11656fcb61dcef0e"
 metafile = true
 
 [[files]]
